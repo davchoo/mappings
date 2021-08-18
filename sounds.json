@@ -105,7 +105,8 @@
   },
   "block.amethyst_block.place": {
     "playsound_mapping": "block.amethyst_block.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:amethyst_block"
   },
   "block.amethyst_block.step": {
     "playsound_mapping": "block.amethyst_block.step",
@@ -125,7 +126,8 @@
   },
   "block.amethyst_cluster.place": {
     "playsound_mapping": "block.amethyst_cluster.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:amethyst_cluster[facing=up,waterlogged=false]"
   },
   "block.amethyst_cluster.step": {
     "playsound_mapping": "block.amethyst_cluster.step",
@@ -306,7 +308,8 @@
   },
   "block.azalea.place": {
     "playsound_mapping": "block.azalea.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:azalea"
   },
   "block.azalea.step": {
     "playsound_mapping": "block.azalea.step",
@@ -326,7 +329,8 @@
   },
   "block.azalea_leaves.place": {
     "playsound_mapping": "block.azalea_leaves.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:azalea_leaves[distance=7,persistent=false]"
   },
   "block.azalea_leaves.step": {
     "playsound_mapping": "block.azalea_leaves.step",
@@ -347,7 +351,7 @@
   "block.bamboo.place": {
     "playsound_mapping": "block.bamboo.place",
     "bedrock_mapping": "PLACE",
-    "identifier": "minecraft:bamboo[age=0,stage=0]"
+    "identifier": "minecraft:bamboo[age=0,leaves=none,stage=0]"
   },
   "block.bamboo.step": {
     "playsound_mapping": "block.bamboo.step",
@@ -385,7 +389,7 @@
   "block.basalt.place": {
     "playsound_mapping": "block.basalt.place",
     "bedrock_mapping": "PLACE",
-    "identifier": "minecraft:basalt[axis=x]"
+    "identifier": "minecraft:basalt[axis=y]"
   },
   "block.basalt.hit": {
     "playsound_mapping": "block.basalt.hit",
@@ -497,7 +501,8 @@
   },
   "block.big_dripleaf.place": {
     "playsound_mapping": "block.big_dripleaf.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:big_dripleaf[facing=north,tilt=none,waterlogged=false]"
   },
   "block.big_dripleaf.step": {
     "playsound_mapping": "block.big_dripleaf.step",
@@ -546,7 +551,7 @@
   "block.bone_block.place": {
     "playsound_mapping": "block.bone_block.place",
     "bedrock_mapping": "PLACE",
-    "identifier": "minecraft:bone_block[axis=x]"
+    "identifier": "minecraft:bone_block[axis=y]"
   },
   "block.bone_block.step": {
     "playsound_mapping": "block.bone_block.step",
@@ -658,7 +663,8 @@
   },
   "block.calcite.place": {
     "playsound_mapping": "block.calcite.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:calcite"
   },
   "block.calcite.hit": {
     "playsound_mapping": "block.calcite.hit",
@@ -694,7 +700,8 @@
   },
   "block.candle.place": {
     "playsound_mapping": "block.candle.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:candle[candles=1,lit=false,waterlogged=false]"
   },
   "block.candle.step": {
     "playsound_mapping": "block.candle.step",
@@ -750,7 +757,8 @@
   },
   "block.cave_vines.place": {
     "playsound_mapping": "block.cave_vines.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:cave_vines[age=0,berries=false]"
   },
   "block.cave_vines.step": {
     "playsound_mapping": "block.cave_vines.step",
@@ -775,7 +783,7 @@
   "block.chain.place": {
     "playsound_mapping": "block.chain.place",
     "bedrock_mapping": "PLACE",
-    "identifier": "minecraft:chain[waterlogged=false]"
+    "identifier": "minecraft:chain[axis=y,waterlogged=false]"
   },
   "block.chain.step": {
     "playsound_mapping": "block.chain.step",
@@ -892,7 +900,8 @@
   },
   "block.copper.place": {
     "playsound_mapping": "block.copper.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:copper_block"
   },
   "block.copper.hit": {
     "playsound_mapping": "block.copper.hit",
@@ -1011,7 +1020,8 @@
   },
   "block.deepslate_bricks.place": {
     "playsound_mapping": "block.deepslate_bricks.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:deepslate_bricks"
   },
   "block.deepslate_bricks.step": {
     "playsound_mapping": "block.deepslate_bricks.step",
@@ -1031,7 +1041,8 @@
   },
   "block.deepslate.place": {
     "playsound_mapping": "block.deepslate.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:deepslate[axis=y]"
   },
   "block.deepslate.step": {
     "playsound_mapping": "block.deepslate.step",
@@ -1051,7 +1062,8 @@
   },
   "block.deepslate_tiles.place": {
     "playsound_mapping": "block.deepslate_tiles.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:deepslate_tiles"
   },
   "block.deepslate_tiles.step": {
     "playsound_mapping": "block.deepslate_tiles.step",
@@ -1143,7 +1155,8 @@
   },
   "block.dripstone_block.place": {
     "playsound_mapping": "block.dripstone_block.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:dripstone_block"
   },
   "block.dripstone_block.hit": {
     "playsound_mapping": "block.dripstone_block.hit",
@@ -1163,7 +1176,8 @@
   },
   "block.pointed_dripstone.place": {
     "playsound_mapping": "block.pointed_dripstone.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]"
   },
   "block.pointed_dripstone.hit": {
     "playsound_mapping": "block.pointed_dripstone.hit",
@@ -1522,7 +1536,8 @@
   },
   "block.flowering_azalea.place": {
     "playsound_mapping": "block.flowering_azalea.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:flowering_azalea"
   },
   "block.flowering_azalea.step": {
     "playsound_mapping": "block.flowering_azalea.step",
@@ -1908,7 +1923,8 @@
   },
   "block.hanging_roots.place": {
     "playsound_mapping": "block.hanging_roots.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:hanging_roots[waterlogged=false]"
   },
   "block.hanging_roots.step": {
     "playsound_mapping": "block.hanging_roots.step",
@@ -2224,7 +2240,7 @@
   "block.lantern.place": {
     "playsound_mapping": "block.lantern.place",
     "bedrock_mapping": "PLACE",
-    "identifier": "minecraft:lantern[hanging=false]"
+    "identifier": "minecraft:lantern[hanging=false,waterlogged=false]"
   },
   "block.lantern.step": {
     "playsound_mapping": "block.lantern.step",
@@ -2236,7 +2252,8 @@
   },
   "block.large_amethyst_bud.place": {
     "playsound_mapping": "block.large_amethyst_bud.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:large_amethyst_bud[facing=up,waterlogged=false]"
   },
   "block.lava.ambient": {
     "playsound_mapping": "liquid.lava",
@@ -2372,7 +2389,8 @@
   },
   "block.medium_amethyst_bud.place": {
     "playsound_mapping": "block.medium_amethyst_bud.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:medium_amethyst_bud[facing=up,waterlogged=false]"
   },
   "block.metal.break": {
     "playsound_mapping": "",
@@ -2449,7 +2467,8 @@
   },
   "block.moss_carpet.place": {
     "playsound_mapping": "block.moss_carpet.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:moss_carpet"
   },
   "block.moss_carpet.step": {
     "playsound_mapping": "block.moss_carpet.step",
@@ -2469,7 +2488,8 @@
   },
   "block.moss.place": {
     "playsound_mapping": "block.moss.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:moss_block"
   },
   "block.moss.step": {
     "playsound_mapping": "block.moss.step",
@@ -3345,7 +3365,8 @@
   },
   "block.polished_deepslate.place": {
     "playsound_mapping": "block.polished_deepslate.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:polished_deepslate"
   },
   "block.polished_deepslate.step": {
     "playsound_mapping": "block.polished_deepslate.step",
@@ -3377,7 +3398,8 @@
   },
   "block.powder_snow.place": {
     "playsound_mapping": "block.powder_snow.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:powder_snow"
   },
   "block.powder_snow.step": {
     "playsound_mapping": "block.powder_snow.step",
@@ -3547,7 +3569,8 @@
   },
   "block.rooted_dirt.place": {
     "playsound_mapping": "block.rooted_dirt.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:rooted_dirt"
   },
   "block.rooted_dirt.step": {
     "playsound_mapping": "block.rooted_dirt.step",
@@ -3605,7 +3628,7 @@
   "block.scaffolding.place": {
     "playsound_mapping": "block.scaffolding.place",
     "bedrock_mapping": "PLACE",
-    "identifier": "minecraft:scaffolding[bottom=true,distance=0,waterlogged=true]"
+    "identifier": "minecraft:scaffolding[bottom=false,distance=7,waterlogged=false]"
   },
   "block.scaffolding.step": {
     "playsound_mapping": "block.scaffolding.step",
@@ -3633,7 +3656,8 @@
   },
   "block.sculk_sensor.place": {
     "playsound_mapping": "block.sculk_sensor.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:sculk_sensor[power=0,sculk_sensor_phase=inactive,waterlogged=false]"
   },
   "block.sculk_sensor.step": {
     "playsound_mapping": "block.sculk_sensor.step",
@@ -3859,7 +3883,8 @@
   },
   "block.small_amethyst_bud.place": {
     "playsound_mapping": "block.small_amethyst_bud.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:small_amethyst_bud[facing=up,waterlogged=false]"
   },
   "block.small_dripleaf.break": {
     "playsound_mapping": "block.small_dripleaf.break",
@@ -3875,7 +3900,8 @@
   },
   "block.small_dripleaf.place": {
     "playsound_mapping": "block.small_dripleaf.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:small_dripleaf[facing=north,half=lower,waterlogged=false]"
   },
   "block.small_dripleaf.step": {
     "playsound_mapping": "block.small_dripleaf.step",
@@ -3941,7 +3967,8 @@
   },
   "block.spore_blossom.place": {
     "playsound_mapping": "block.spore_blossom.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:spore_blossom"
   },
   "block.spore_blossom.step": {
     "playsound_mapping": "block.spore_blossom.step",
@@ -4046,7 +4073,7 @@
   },
   "block.snow.place": {
     "playsound_mapping": "use.snow",
-    "bedrock_mapping": "ITEM_USE_ON",
+    "bedrock_mapping": "PLACE",
     "identifier": "minecraft:snow_block"
   },
   "block.snow.step": {
@@ -4256,7 +4283,8 @@
   },
   "block.tuff.place": {
     "playsound_mapping": "block.tuff.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:tuff"
   },
   "block.tuff.hit": {
     "playsound_mapping": "block.tuff.hit",
@@ -4476,7 +4504,8 @@
   },
   "block.vine.place": {
     "playsound_mapping": "block.vine.place",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:vine[east=false,north=false,south=false,up=false,west=false]"
   },
   "block.vine.step": {
     "playsound_mapping": "block.vine.step",
@@ -4484,7 +4513,8 @@
   },
   "block.lily_pad.place": {
     "playsound_mapping": "",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:lily_pad"
   },
   "entity.wandering_trader.ambient": {
     "playsound_mapping": "mob.wanderingtrader.idle",
