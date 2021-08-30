@@ -827,7 +827,7 @@
     "bedrock_mapping": "TELEPORT"
   },
   "entity.cod.ambient": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.fish.step",
     "bedrock_mapping": "AMBIENT"
   },
   "entity.cod.death": {
@@ -1275,7 +1275,7 @@
     "bedrock_mapping": "HURT"
   },
   "entity.elder_guardian.hurt_land": {
-    "playsound_mapping": "mob.elderguardian.land_hit",
+    "playsound_mapping": "mob.guardian.land_hit",
     "bedrock_mapping": "HURT"
   },
   "item.elytra.flying": {
@@ -3384,7 +3384,7 @@
     "bedrock_mapping": ""
   },
   "entity.puffer_fish.ambient": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.fish.step",
     "bedrock_mapping": "AMBIENT"
   },
   "entity.puffer_fish.blow_out": {
@@ -3558,7 +3558,7 @@
     "bedrock_mapping": "AMBIENT"
   },
   "entity.salmon.death": {
-    "playsound_mapping": "mob.fish.death",
+    "playsound_mapping": "mob.fish.hurt",
     "bedrock_mapping": "DEATH"
   },
   "entity.salmon.flop": {
