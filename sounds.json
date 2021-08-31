@@ -823,7 +823,7 @@
     "bedrock_mapping": "CHORUSGROW"
   },
   "item.chorus_fruit.teleport": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.endermen.portal",
     "bedrock_mapping": "TELEPORT"
   },
   "entity.cod.ambient": {
@@ -1263,7 +1263,7 @@
     "bedrock_mapping": "DEATH"
   },
   "entity.elder_guardian.death_land": {
-    "playsound_mapping": "mob.elderguardian.land_death",
+    "playsound_mapping": "mob.elderguardian.death",
     "bedrock_mapping": "DEATH"
   },
   "entity.elder_guardian.flop": {
@@ -1569,7 +1569,7 @@
     "bedrock_mapping": ""
   },
   "entity.fox.teleport": {
-    "playsound_mapping": "mob.fox.teleport",
+    "playsound_mapping": "mob.endermen.portal",
     "bedrock_mapping": ""
   },
   "block.roots.break": {
@@ -2988,7 +2988,7 @@
     "bedrock_mapping": ""
   },
   "entity.parrot.imitate.evoker": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.evocation_illager.ambient",
     "bedrock_mapping": "IMITATE_EVOCATION_ILLAGER"
   },
   "entity.parrot.imitate.ghast": {
@@ -3132,7 +3132,7 @@
     "bedrock_mapping": "HURT"
   },
   "entity.pig.saddle": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.horse.leather",
     "bedrock_mapping": "SADDLE"
   },
   "entity.pig.step": {
@@ -3514,7 +3514,7 @@
     "bedrock_mapping": "STEP"
   },
   "block.redstone_torch.burnout": {
-    "playsound_mapping": "",
+    "playsound_mapping": "random.fizz",
     "bedrock_mapping": ""
   },
   "block.respawn_anchor.ambient": {
@@ -3980,7 +3980,7 @@
     "bedrock_mapping": "EAT"
   },
   "entity.strider.saddle": {
-    "playsound_mapping": "mob.strider.saddle",
+    "playsound_mapping": "mob.horse.leather",
     "bedrock_mapping": "SADDLE"
   },
   "entity.slime.death_small": {
@@ -4037,7 +4037,7 @@
     "bedrock_mapping": "SHOOT"
   },
   "entity.snow_golem.shear": {
-    "playsound_mapping": "mob.snow_golem.shear",
+    "playsound_mapping": "mob.sheep.shear",
     "bedrock_mapping": ""
   },
   "block.snow.hit": {
@@ -4098,7 +4098,7 @@
     "bedrock_mapping": "HURT"
   },
   "entity.squid.squirt": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.squid.ink_squirt",
     "bedrock_mapping": ""
   },
   "block.stone.break": {
@@ -4335,7 +4335,7 @@
     "bedrock_mapping": "UI_STONECUTTER_TAKE_RESULT"
   },
   "ui.stonecutter.select_recipe": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.stonecutter.use",
     "bedrock_mapping": "STONECUTTER_USE"
   },
   "ui.toast.challenge_complete": {
