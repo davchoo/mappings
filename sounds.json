@@ -2572,24 +2572,24 @@
     "bedrock_mapping": "SQUISH_SMALL"
   },
   "block.mangrove_roots.break": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.mangrove_roots.break",
     "bedrock_mapping": ""
   },
   "block.mangrove_roots.fall": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.mangrove_roots.fall",
     "bedrock_mapping": ""
   },
   "block.mangrove_roots.hit": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.mangrove_roots.hit",
     "bedrock_mapping": ""
   },
   "block.mangrove_roots.place": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.mangrove_roots.place",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:mangrove_roots[waterlogged=false]"
   },
   "block.mangrove_roots.step": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.mangrove_roots.step",
     "bedrock_mapping": ""
   },
   "block.medium_amethyst_bud.break": {
@@ -2705,66 +2705,66 @@
     "bedrock_mapping": ""
   },
   "block.mud.break": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.mud.break",
     "bedrock_mapping": ""
   },
   "block.mud.fall": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.mud.fall",
     "bedrock_mapping": ""
   },
   "block.mud.hit": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.mud.hit",
     "bedrock_mapping": ""
   },
   "block.mud.place": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.mud.place",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:mud"
   },
   "block.mud.step": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.mud.step",
     "bedrock_mapping": ""
   },
   "block.mud_bricks.break": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.mud_bricks.break",
     "bedrock_mapping": ""
   },
   "block.mud_bricks.fall": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.mud_bricks.fall",
     "bedrock_mapping": ""
   },
   "block.mud_bricks.hit": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.mud_bricks.hit",
     "bedrock_mapping": ""
   },
   "block.mud_bricks.place": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.mud_bricks.place",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:mud_bricks"
   },
   "block.mud_bricks.step": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.mud_bricks.step",
     "bedrock_mapping": ""
   },
   "block.muddy_mangrove_roots.break": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.muddy_mangrove_roots.break",
     "bedrock_mapping": ""
   },
   "block.muddy_mangrove_roots.fall": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.muddy_mangrove_roots.fall",
     "bedrock_mapping": ""
   },
   "block.muddy_mangrove_roots.hit": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.muddy_mangrove_roots.hit",
     "bedrock_mapping": ""
   },
   "block.muddy_mangrove_roots.place": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.muddy_mangrove_roots.place",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:muddy_mangrove_roots[axis=y]"
   },
   "block.muddy_mangrove_roots.step": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.muddy_mangrove_roots.step",
     "bedrock_mapping": ""
   },
   "entity.mule.ambient": {
@@ -2978,24 +2978,24 @@
     "identifier": "minecraft:nether_wart[age=0]"
   },
   "block.packed_mud.break": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.packed_mud.break",
     "bedrock_mapping": ""
   },
   "block.packed_mud.fall": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.packed_mud.fall",
     "bedrock_mapping": ""
   },
   "block.packed_mud.hit": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.packed_mud.hit",
     "bedrock_mapping": ""
   },
   "block.packed_mud.place": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.packed_mud.place",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:packed_mud"
   },
   "block.packed_mud.step": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.packed_mud.step",
     "bedrock_mapping": ""
   },
   "block.stem.break": {
