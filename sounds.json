@@ -1175,24 +1175,26 @@
     "bedrock_mapping": "SWIM"
   },
   "entity.donkey.ambient": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.horse.donkey.idle",
     "bedrock_mapping": "AMBIENT"
   },
   "entity.donkey.angry": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.horse.donkey.angry",
     "bedrock_mapping": "MAD"
   },
   "entity.donkey.chest": {
-    "playsound_mapping": "random.pop",
-    "bedrock_mapping": "ADD_CHEST"
+    "playsound_mapping": "",
+    "bedrock_mapping": "ADD_CHEST",
+    "identifier": "minecraft:donkey"
   },
   "entity.donkey.death": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.horse.donkey.death",
     "bedrock_mapping": "DEATH"
   },
   "entity.donkey.eat": {
     "playsound_mapping": "",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "EAT",
+    "identifier": "minecraft:donkey"
   },
   "entity.donkey.hurt": {
     "playsound_mapping": "mob.horse.donkey.hit",
@@ -1318,7 +1320,7 @@
     "bedrock_mapping": "AMBIENT"
   },
   "entity.elder_guardian.ambient_land": {
-    "playsound_mapping": "mob.elderguardian.idle",
+    "playsound_mapping": "mob.guardian.land_idle",
     "bedrock_mapping": "AMBIENT"
   },
   "entity.elder_guardian.curse": {
@@ -1330,11 +1332,11 @@
     "bedrock_mapping": "DEATH"
   },
   "entity.elder_guardian.death_land": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.elderguardian.death",
     "bedrock_mapping": "DEATH"
   },
   "entity.elder_guardian.flop": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.guardian.flop",
     "bedrock_mapping": "FLOP"
   },
   "entity.elder_guardian.hurt": {
@@ -1342,7 +1344,7 @@
     "bedrock_mapping": "HURT"
   },
   "entity.elder_guardian.hurt_land": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.guardian.land_hit",
     "bedrock_mapping": "HURT"
   },
   "item.elytra.flying": {
@@ -1406,7 +1408,7 @@
     "bedrock_mapping": "DEATH"
   },
   "entity.enderman.hurt": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.endermen.hit",
     "bedrock_mapping": "HURT"
   },
   "entity.enderman.scream": {
@@ -1645,15 +1647,15 @@
     "bedrock_mapping": ""
   },
   "block.froglight.fall": {
-    "playsound_mapping": "",
+    "playsound_mapping": "step.froglight",
     "bedrock_mapping": ""
   },
   "block.froglight.hit": {
-    "playsound_mapping": "",
+    "playsound_mapping": "step.froglight",
     "bedrock_mapping": ""
   },
   "block.froglight.place": {
-    "playsound_mapping": "",
+    "playsound_mapping": "break.froglight",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:ochre_froglight[axis=y]"
   },
@@ -1662,27 +1664,27 @@
     "bedrock_mapping": ""
   },
   "block.frogspawn.step": {
-    "playsound_mapping": "",
+    "playsound_mapping": "step.frog_spawn",
     "bedrock_mapping": ""
   },
   "block.frogspawn.break": {
-    "playsound_mapping": "",
+    "playsound_mapping": "break.frog_spawn",
     "bedrock_mapping": ""
   },
   "block.frogspawn.fall": {
-    "playsound_mapping": "",
+    "playsound_mapping": "step.frog_spawn",
     "bedrock_mapping": ""
   },
   "block.frogspawn.hatch": {
-    "playsound_mapping": "",
+    "playsound_mapping": "hatch.frog_spawn",
     "bedrock_mapping": ""
   },
   "block.frogspawn.hit": {
-    "playsound_mapping": "",
+    "playsound_mapping": "step.frog_spawn",
     "bedrock_mapping": ""
   },
   "block.frogspawn.place": {
-    "playsound_mapping": "",
+    "playsound_mapping": "break.frog_spawn",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:frogspawn"
   },
@@ -1897,7 +1899,7 @@
     "bedrock_mapping": ""
   },
   "entity.glow_squid.squirt": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.glow_squid.ink_squirt",
     "bedrock_mapping": ""
   },
   "entity.goat.ambient": {
@@ -1921,7 +1923,7 @@
     "bedrock_mapping": ""
   },
   "entity.goat.milk": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.cow.milk",
     "bedrock_mapping": ""
   },
   "entity.goat.prepare_ram": {
@@ -1941,19 +1943,19 @@
     "bedrock_mapping": ""
   },
   "entity.goat.screaming.ambient": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.goat.ambient.screamer",
     "bedrock_mapping": ""
   },
   "entity.goat.screaming.death": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.goat.death.screamer",
     "bedrock_mapping": ""
   },
   "entity.goat.screaming.eat": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.goat.eat",
     "bedrock_mapping": ""
   },
   "entity.goat.screaming.hurt": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.goat.hurt.screamer",
     "bedrock_mapping": ""
   },
   "entity.goat.screaming.long_jump": {
@@ -1961,19 +1963,19 @@
     "bedrock_mapping": ""
   },
   "entity.goat.screaming.milk": {
-    "playsound_mapping": "",
-    "bedrock_mapping": ""
+    "playsound_mapping": "mob.goat.milk.screamer",
+    "bedrock_mapping": "MILK_SCREAMER"
   },
   "entity.goat.screaming.prepare_ram": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.goat.prepare_ram.screamer",
     "bedrock_mapping": ""
   },
   "entity.goat.screaming.ram_impact": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.goat.ram_impact.screamer",
     "bedrock_mapping": ""
   },
   "entity.goat.screaming.horn_break": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.goat.horn_break",
     "bedrock_mapping": ""
   },
   "entity.goat.step": {
@@ -2145,7 +2147,7 @@
     "bedrock_mapping": "STEP"
   },
   "item.honeycomb.wax_on": {
-    "playsound_mapping": "",
+    "playsound_mapping": "copper.wax.on",
     "bedrock_mapping": ""
   },
   "item.honey_bottle.drink": {
@@ -2310,7 +2312,8 @@
   },
   "item.ink_sac.use": {
     "playsound_mapping": "",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "SOUND_INK_SACE_USED",
+    "level_event": true
   },
   "block.iron_door.close": {
     "playsound_mapping": "random.door_close",
@@ -2339,7 +2342,7 @@
     "bedrock_mapping": "HURT"
   },
   "entity.iron_golem.repair": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.irongolem.repair",
     "bedrock_mapping": ""
   },
   "entity.iron_golem.step": {
@@ -5329,7 +5332,7 @@
     "bedrock_mapping": "STEP"
   },
   "entity.zoglin.ambient": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.zoglin.idle",
     "bedrock_mapping": "AMBIENT"
   },
   "entity.zoglin.angry": {
